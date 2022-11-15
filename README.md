@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jingdong00
+- 👋 Hi, I’m @jingdong00, a second-year PhD student @ CUHKSZ
 - 👀 I’m interested in reinforcement learning/bandits
 - 📫 How to reach me: jindong@umich.edu
 
